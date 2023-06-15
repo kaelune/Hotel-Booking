@@ -1,0 +1,25 @@
+Developer Account: 
+Email: xentiencehotel@gmail.com
+Password: X3nt1ence052821
+
+https://www.sandbox.paypal.com/signin
+
+Sandbox - Personal: 
+Mizuku Shouya
+xentience_sandbox@per.com
+X3nt1ence052821
+
+Sandbox - Business: 
+Miyazumi Shouya
+xentience_sandbox@biz.com
+X3nt1ence052821
+
+API Credential: 
+App Name: HOTEL_BOOK
+xentience_sandbox@biz.com
+
+Client ID:
+AfTosFS3T4A0kFxN4noQp1pt2pJE7J8fmXJHIrnZBgUGmCL_ZD26KB_mAJz1ISpBaCBJV95eLDyqqN8W
+
+Secret:
+EKQnjWZp0TleYXTUPwZuccjmzQLIA-VRVrI6B-wAuF8xjETAqrJUoXq4mJ40afqAflZVzwskTjGamHeE
