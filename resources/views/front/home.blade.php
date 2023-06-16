@@ -3,7 +3,7 @@
 @section('main_content')
 <div class="slider">
     <div class="slide-carousel owl-carousel">
-
+<!--ini adalah home-->
         @foreach($slide_all as $item)
         <div class="item" style="background-image:url({{ asset('uploads/'.$item->photo) }});">
             <div class="bg"></div>
