@@ -11,7 +11,7 @@
                 </div>
             </div>
         </div>
-        
+        <!--ini adalah photo galery-->
         <div class="page-content">
             <div class="container">
                 <div class="photo-gallery">
