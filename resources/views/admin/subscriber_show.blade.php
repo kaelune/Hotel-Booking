@@ -2,10 +2,6 @@
 
 @section('heading', 'View Subscribers')
 
-@section('right_top_button')
-<a href="{{ route('admin_testimonial_add') }}" class="btn btn-primary" ><i class="fa fa-plus"></i>Add New</a>
-@endsection
-
 @section('main_content')
 <div class="section-body">
     <div class="row">
